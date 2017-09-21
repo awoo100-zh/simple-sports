@@ -1,5 +1,5 @@
 # Problem Statement
-Building, managing and running a website is complex and expensive, and being a player/coach/manager it is difficult to find up-to-date information in a timely manner. The vision is a one-click install website (or potentially a cloud based option) so that sports clubs and their governing bodies have a central platform for managing their c
+Building, managing and running a website is complex and expensive, and being a player/coach/manager it is difficult to find up-to-date information in a timely manner. The vision is a one-click install website (or potentially a cloud based option) so that sports clubs and their governing bodies have a central platform for managing their club
 
 # Our Purpose
 Let's make life easier for amateur clubs and take the pain away from managing their web presence, and give them access to capabilities that they haven't seen before. Let's help create a consistent experience for our players, clubs and managers and simplify co-ordination efforts across the board. Most importantly, lets create an even playing field to increase competition and competitiveness across the sporting landscape. 
@@ -11,7 +11,7 @@ Having been an active participant in Sports since the early age of 5, obtaining 
 All contribution is greatly appreciated. Below is a list of the numerous ways you can contribute:
 
 ## Design and UAT
-Since we are looking to undertake this project from a service design perspective, we are keen to talk to as many possible from the sporting community. You don't have to be a developer, you just have to be a person! Maybe you are a coach, a parent, a manager, a club or governing committee administrator, or maybe you've never played sports before and there is something we can do to help you get involved!
+Since we are looking to undertake this project from a user's perspective, we are keen to talk to as many possible from the sporting community. You don't have to be a developer, you just have to be a person! Maybe you are a coach, a parent, a manager, a club or governing committee administrator, or maybe you've never played sports before and there is something we can do to help you get involved!
 
 We are looking for input from people in the sporting community, whether you are a player/coach/manager/administrator etc. There are two ways in which you can contribute:
 1. You can contribute a feature request to the Trello Board (Coming Soon)(TODO: Update with Link)
